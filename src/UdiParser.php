@@ -18,7 +18,7 @@ class UdiParser {
 
 
   /**
-   * Cruede parse function for scanned UDI numbers.
+   * Crude parse function for scanned UDI numbers.
    * Assumes application identifiers are laid out in the following fashion:
    *
    * (01)(10)(11)(17)(21)
