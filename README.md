@@ -5,7 +5,7 @@ This is a rudimentary reference implementation for parsing UDI numbers as it per
 
 For more information regarding this initiative [see here](http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/UniqueDeviceIdentification/)
 
-This parser makes some very hard assumtions on the layout of the UDI data. 
+This parser makes some very hard assumptions on the layout of the UDI data. 
 
 It assumes the application identifiers are laid out in the following fashion: 
    
